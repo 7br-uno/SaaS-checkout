@@ -1,5 +1,7 @@
 # Checkout para venda de infoprodutos SaaS
 
+Pronto para a plataforma de automação financeira IUGU 
+
 ## Build Setup
 
 ``` bash
