@@ -1,6 +1,4 @@
-# checkoutv2
-
-> Checkout da Sua Empresa
+# Checkout para venda de infoprodutos SaaS
 
 ## Build Setup
 
