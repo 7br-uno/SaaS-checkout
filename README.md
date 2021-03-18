@@ -1,6 +1,8 @@
 # Checkout para venda de infoprodutos SaaS
 
 Pronto para a plataforma de automação financeira IUGU 
+![image](https://user-images.githubusercontent.com/14331609/111703571-9b3f2280-881c-11eb-9e83-ca2c71d9cf90.png)
+
 
 ## Build Setup
 
